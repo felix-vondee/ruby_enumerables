@@ -21,9 +21,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 Clone repository from github to your local drive using git clone command:
-- GitHub CLI: gh repo clone amiraabouhadid/Ruby-Project1-BubbleSort.git.
-- SSH:git clone git@github.com:amiraabouhadid/Ruby-Project1-BubbleSort.git.
-- HTTPS:git clone https://github.com/amiraabouhadid/Ruby-Project1-BubbleSort.git.
+- GitHub CLI: gh repo clone amiraabouhadid/project2_enumerable_methods.git.
+- SSH:git clone git@github.com:amiraabouhadid/project2_enumerable_methods.git.
+- HTTPS:git clone https://github.com/amiraabouhadid/project2_enumerable_methods.git.
 
 ### Install
 - Install Atom or Microsoft Visual Studio text editor to view the code on your local machine.
@@ -47,12 +47,11 @@ Clone repository from github to your local drive using git clone command:
 - Twitter: [@felix_vondee](https://twitter.com/felix_vondee)
 - LinkedIn: [Felix Vondee](https://linkedin.com/)
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/amiraabouhadid/Ruby-Project1-BubbleSort/issues).
+Feel free to check the [issues page](https://github.com/amiraabouhadid/project2_enumerable_methods/issues).
 
 ## Show your support
 
@@ -66,5 +65,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-This project is [creativecommons](https://creativecommons.org/licenses/by-nc/4.0/) licensed.
+- This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+- This project is [creativecommons](https://creativecommons.org/licenses/by-nc/4.0/) licensed.
